@@ -12,6 +12,6 @@ git log --pretty=format:"%h%x09%an%x09%ad%x09%s" --after="2024-09-18"
 
 git add .
 
-git commit -m "W02-P1: refine the code in week 1 using ony one compute function"
+git commit -m "W03-P2: play TicTacToe successfully"
 
 git push
