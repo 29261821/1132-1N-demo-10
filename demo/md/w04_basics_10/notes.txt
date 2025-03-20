@@ -12,6 +12,6 @@ git log --pretty=format:"%h%x09%an%x09%ad%x09%s" --after="2024-09-18"
 
 git add .
 
-git commit -m "W04-P4: Show toSorted data and a stat object to store statistical data"
+git commit -m "W04-logs: git logs of W04"
 
 git push
