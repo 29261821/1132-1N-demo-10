@@ -1,0 +1,45 @@
+git config --global user.email "gash29261821@gmail.com"
+git config --global user.name "29261821"
+
+
+git log
+
+git log --pretty=format:"%h%x09%an%x09%ad%x09%s" --after="2024-09-18"
+
+719fae1 29261821        Thu Sep 19 19:21:14 2024 +0800  git push
+
+
+git add .
+
+git commit -m "W10-logs: git logs of W10"
+
+git push
+
+
+
+
+npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch
+
+
+
+rm -rf node_modules/
+
+
+
+pengsenFang_1n_10:  ulgldfuniztgkvysgmuh
+pengsenFang_2n_10:  ltemszlthahhnitlsrwx
+
+
+Project URL
+https://ulgldfuniztgkvysgmuh.supabase.co
+
+https://ltemszlthahhnitlsrwx.supabase.co
+
+
+Project API Keys
+anonpublic
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InVsZ2xkZnVuaXp0Z2t2eXNnbXVoIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDU0OTAzMzksImV4cCI6MjA2MTA2NjMzOX0.5Jb7OVbn5ecGbodRU_LlOZTcab2mp8ZvRpMDZaVEsBA
+
+anonpublic
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imx0ZW1zemx0aGFoaG5pdGxzcnd4Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDU0OTE4NTMsImV4cCI6MjA2MTA2Nzg1M30.Asww1ueATiyEdOeVpwoVQUC-KzlFYyLbjaAM4L_QtPk
+
