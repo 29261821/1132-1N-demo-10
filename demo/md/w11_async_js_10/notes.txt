@@ -11,7 +11,7 @@ git log --pretty=format:"%h%x09%an%x09%ad%x09%s" --after="2024-09-18"
 
 git add .
 
-git commit -m "W11-P1: Synchronous vs. Asynchronous"
+git commit -m "W11-P3: Use Promise to do W11-P2"
 
 git push
 
