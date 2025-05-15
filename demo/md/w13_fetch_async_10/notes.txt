@@ -11,7 +11,7 @@ git log --pretty=format:"%h%x09%an%x09%ad%x09%s" --after="2024-09-18"
 
 git add .
 
-git commit -m "W12-logs: git logs of W12"
+git commit -m "W13-P1: Use fetch API to replace xhr approach"
 
 git push
 
