@@ -11,7 +11,7 @@ git log --pretty=format:"%h%x09%an%x09%ad%x09%s" --after="2024-09-18"
 
 git add .
 
-git commit -m "W13-logs: git logs of W13"
+git commit -m "W14-P1: show first welcome page"
 
 git push
 
