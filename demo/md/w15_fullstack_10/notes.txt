@@ -12,11 +12,9 @@ git log --pretty=format:"%h%x09%an%x09%ad%x09%s" --after="2024-09-18"
 git add .
 
 git commit -m "W15-P1: Set up and test connection to Supabase"
-
 git commit -m "W15-P2: Get /api/product_10 json and show it in the client side"
 git commit -m "W15-P3: Show static page of blog theme"
 git commit -m "W15-P4: Implement route /product_10 to get json data from PostgreSQL server and display them in ejs file"
-
 git commit -m "W15-logs: git logs of W15"
  
 
